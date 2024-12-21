@@ -1,0 +1,217 @@
+body {
+    background: rgb(0,0,0);
+background: linear-gradient(59deg, rgba(0,0,0,1) 0%, rgba(4,0,255,1) 30%, rgba(0,175,241,1) 63%, rgba(0,255,149,1) 95%);
+}
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.block1 {
+    background-color: blueviolet;
+    color: white;
+    width: 345px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+.block2 {
+    background-color: rgb(190, 190, 190);
+    width: 800px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1 {
+    background-color: brown;
+    color: white;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.box2 {
+    background: white;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.box3 {
+    background: white;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.box4 {
+    background: white;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container2 img{
+    width: 585px;
+    height: 700px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.box5 {
+    width: 500px;
+    height: 640px;
+    background-color: rgb(190, 190, 190);
+    margin-top: 20px;
+    padding: 30px;
+}
+button {
+    color: white;
+    background-color: brown;
+    padding: 15px 40px;
+    border: 1px solid brown;
+}
+.container3 {
+    background-color: blueviolet;
+    color: white;
+    width: 1165px;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+}
+i {
+    font-size: 150px;
+}
+.container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box9 {
+    background-color: rgb(190, 190, 190);
+    width: 450px;
+    height: 250px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 70px;
+}
+.box10 {
+    background-color: rgb(190, 190, 190);
+    width: 450px;
+    height: 250px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 70px;
+}
+.block4 img {
+    width: 555px;
+    height: 800px;
+    margin-top: 20px;
+}.box10 button {
+    background-color: rgb(66, 66, 66);
+    border: 1px solid rgb(66, 66, 66);
+}
+.container5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3 {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 30px;
+}
+.box11 {
+    background-color: aqua;
+    color: blue;
+    width: 1165px;
+    height: 200px;
+    margin-top: 20px;
+}
+.container6 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.box12 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.box13 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.box14 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.box15 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.box16 {
+    width: 200px;
+    height: 200px;
+    margin-right: 100px;
+}
+.box17 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.box18 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.box19 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.box20 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.box21 {
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+}
+.block5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 110px;
+}
+.block6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
